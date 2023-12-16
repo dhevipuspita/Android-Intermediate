@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "339499272276",
+    "project_id": "ecstatic-device-403813",
+    "storage_bucket": "ecstatic-device-403813.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339499272276:android:ca9345a913821bcdd045c1",
+        "android_client_info": {
+          "package_name": "com.dicoding.myfirebasechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339499272276-i70t2s0j749fqp6sq5hnng5nv87s65vd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYqoMmSTkbQpDJqqdcjQ22OwJEvhJ2KEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339499272276-i70t2s0j749fqp6sq5hnng5nv87s65vd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
